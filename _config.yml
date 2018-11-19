@@ -2,7 +2,7 @@
 title:              "The Plain"
 description:        "A minimalist Jekyll theme"
 author_name:        "Manuel Sousa" # change this to your name
-#logo_url:           https://uproxx.files.wordpress.com/2011/02/businesscat00-original.jpg?w=266&h=300&quality=95 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://uproxx.files.wordpress.com/2011/02/businesscat00-original.jpg?w=266&h=300&quality=95 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://manuelsousa7.github.io # main url
