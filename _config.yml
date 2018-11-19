@@ -6,7 +6,7 @@ author_name:        "Manuel Sousa" # change this to your name
 
 # Site Settings
 url:                https://manuelsousa7.github.io # main url
-baseurl:            /the-plain
+baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Europe/Lisbon # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
